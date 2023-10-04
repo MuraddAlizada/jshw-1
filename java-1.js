@@ -44,7 +44,7 @@ if ( q1==true ) {
         alert("10 bal Qazandiniz! Sizin baliniz :80");
 
     var q10 = prompt ("468/78");
-    if ( q10 == "468") {
+    if ( q10 == "6") {
         console.log(" 10 bal Qazandiniz! Sizin baliniz :90");
         alert(" 10 bal Qazandiniz! Sizin baliniz :90");
 
